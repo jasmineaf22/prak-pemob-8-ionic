@@ -36,3 +36,6 @@ Shift Baru: D
    - Rute dilindungi dengan Guard.
    - API dilindungi dengan pengaturan CORS.
    - Validasi input diterapkan pada form login untuk memastikan tidak ada field yang kosong. Jika field kosong, pesan error "Username atau Password Tidak Boleh Kosong" akan ditampilkan.
+
+![alt text](image.png)
+![alt text](image-1.png)
